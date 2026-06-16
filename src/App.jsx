@@ -9,8 +9,7 @@ function App() {
   return (
     <div className="container">
       <div className="hero">
-        <img src="/public/logo.svg" alt="React Query Logo" className="logo" />
-
+        <img src="/logo.svg" alt="React Query Logo" className="logo" />
         <h1 className="title">
           React Query CRUD
           <br />
